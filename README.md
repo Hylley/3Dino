@@ -5,13 +5,14 @@ The Chrome dinossaur, but 3D.
 # 🔨 Installation
 
 ### Prerequisites
-
 - Latest verison of Unity (can be downloaded from [here](https://unity3d.com/get-unity/download)). This game was made using Unity 2021.3.20f1 LTS.
 - The game was tested only on Windows. But one should be able to port it to other platforms too.
 
 ### New Project
+Clone the repository via `git clone https://github.com/Hylley/3Dino.git` or downloading it. Open with the same version of Unity as the project was made (or recent). Do your stuff!
 
-Clone the repository using Git or downloading it. Open with the same version of Unity as the project was made (or recent). Do your stuff!
+### Build
+Add all the necessary scenes in the build window (first the "Menu" and next the "Game") and you're ready to go.
 
 # 💲 Credits, cuz some people need to pay their bills.
 | Element of the game                 | Credits                                                                                    |
