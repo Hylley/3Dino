@@ -2,7 +2,7 @@
 ![Game print](https://user-images.githubusercontent.com/66799902/224606627-c502dc65-6d77-4eea-96a7-39bbd901a674.gif)
 The Chrome dinossaur, but 3D.
 
-# Installation
+# 🔨 Installation
 
 ### Prerequisites
 
