@@ -1,8 +1,14 @@
+Game over music: https://opengameart.org/content/game-over-0
+
+Dinossaurs Pack: https://quaternius.com/packs/animateddinosaurs.html
+Dinosaur fall sound effect (edited): https://freesound.org/people/bareform/sounds/218721/
+Dinosaur snarl sound effect: https://freesound.org/people/LaurenPonder/sounds/639448/
+Dinosaur jump sound effect (edited): https://opengameart.org/content/air-woosh-move/
+Dinosaur steps sound effect (edited): https://www.videvo.net/sound-effect/dinosaur-footstep-13/415618/
+
 Background music: Context Sensitive
 
 Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
-
-Dinossaurs Pack: https://quaternius.com/packs/animateddinosaurs.html
 
 Nature Decoration Pack: https://quaternius.com/packs/ultimatenature.html
 
