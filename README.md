@@ -1,8 +1,17 @@
 # 🦖 3Dino
-
-![Dinosaur](https://im2.ezgif.com/tmp/ezgif-2-e69b0b8ab0.gif)
-
+![Game print](https://user-images.githubusercontent.com/66799902/224606627-c502dc65-6d77-4eea-96a7-39bbd901a674.gif)
 The Chrome dinossaur, but 3D.
+
+# Installation
+
+### Prerequisites
+
+- Latest verison of Unity (can be downloaded from [here](https://unity3d.com/get-unity/download)). This game was made using Unity 2021.3.20f1 LTS.
+- The game was tested only on Windows. But one should be able to port it to other platforms too.
+
+### New Project
+
+Clone the repository using Git or downloading it. Open with the same version of Unity as the project was made (or recent). Do your stuff!
 
 # 💲 Credits, cuz some people need to pay their bills.
 | Element of the game                 | Credits                                                                                    |
